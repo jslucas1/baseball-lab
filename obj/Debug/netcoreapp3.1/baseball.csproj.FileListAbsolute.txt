@@ -1,0 +1,11 @@
+C:\Users\jslucas\source\repos\mis321\baseball\obj\Debug\netcoreapp3.1\baseball.csprojAssemblyReference.cache
+C:\Users\jslucas\source\repos\mis321\baseball\obj\Debug\netcoreapp3.1\baseball.AssemblyInfoInputs.cache
+C:\Users\jslucas\source\repos\mis321\baseball\obj\Debug\netcoreapp3.1\baseball.AssemblyInfo.cs
+C:\Users\jslucas\source\repos\mis321\baseball\bin\Debug\netcoreapp3.1\baseball.exe
+C:\Users\jslucas\source\repos\mis321\baseball\bin\Debug\netcoreapp3.1\baseball.deps.json
+C:\Users\jslucas\source\repos\mis321\baseball\bin\Debug\netcoreapp3.1\baseball.runtimeconfig.json
+C:\Users\jslucas\source\repos\mis321\baseball\bin\Debug\netcoreapp3.1\baseball.runtimeconfig.dev.json
+C:\Users\jslucas\source\repos\mis321\baseball\bin\Debug\netcoreapp3.1\baseball.dll
+C:\Users\jslucas\source\repos\mis321\baseball\bin\Debug\netcoreapp3.1\baseball.pdb
+C:\Users\jslucas\source\repos\mis321\baseball\obj\Debug\netcoreapp3.1\baseball.dll
+C:\Users\jslucas\source\repos\mis321\baseball\obj\Debug\netcoreapp3.1\baseball.pdb
